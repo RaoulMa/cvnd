@@ -11,5 +11,5 @@ This software is licensed under the MIT License.
 
 # Project 1: Facial Keypoint Detection
 
-We train a Convolution Neural Network (CNN) to predict Facial Keypoints, given images of human faces. 
+We train a Convolutional Neural Network (CNN) to predict Facial Keypoints, given images of human faces. 
 
