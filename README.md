@@ -1,5 +1,9 @@
 # About
-This repository contains my current solutions for the Udacity Computer Vision Nano Degree (CVND) exercises and projects.
+
+This repository contains my current solutions for Udacity Nano Degree exercises and projects.
+
+- [Computer Vision](cvnd)
+- [Data Structures & Algorithms](dand)
 
 The original files can be found at [udacity](https://github.com/udacity).
 
@@ -8,8 +12,4 @@ clear, efficient, well tested or numerically stable. We advise against using thi
 purposes.
 
 This software is licensed under the MIT License.
-
-# Project 1: Facial Keypoint Detection
-
-We train a Convolutional Neural Network (CNN) to predict Facial Keypoints, given images of human faces. 
 
