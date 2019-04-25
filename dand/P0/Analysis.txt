@@ -1,0 +1,34 @@
+# Task 0:
+This task requires accessing a fixed number of elements in a list.
+The solution has O(1) time and memory complexity.
+
+# Task 1:
+This task requires going through each entry of the two lists 'texts' and 'calls'. Let's say n is the total
+number of entries of both lists. The solution has then O(n) time and memory complexity.
+
+# Task 2:
+Let n be the total number of entries in the list 'calls'. This task requires
+
+- to through the list 'calls' and select the relevant telephone numbers in the specific time
+period and then add up the time spent on the phone. The results are written into a dictionary. Accessing the
+dictionary has O(1) complexity. The whole loop then has O(n) complexity.
+- to find the maximum of the time spent. We need to go through the dictionary which has at worst O(n) complexity.
+- finally we check for uniqueness of the maximum, which also has O(n) complexity.
+
+Thus, the solution has then O(n) time and memory complexity.
+
+# Task 3:
+Let n be the total number of entries in the list 'calls'.
+
+Part A: Searching for calls from Bangalore and storing the prefixes of received calls
+requires O(n) time and memory complexity. Sorting the list of O(n) prefixes
+requires O(nlog(n)) time complexity (Timsort). Finally, in total the
+complexity is O(nlog(n)).
+
+Part B: Searching through the 'calls' list requires O(n) time and O(1) memory complexity.
+
+# Task 4:
+Let n be the total number of entries in the list 'calls' and 'texts'. Looping through both lists requires
+O(n) time and space complexity. Sorting the stored set of candidates requires at worst O(nlog(n)) time complexity.
+Finally, in total the complexity is O(nlog(n)).
+
