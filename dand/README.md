@@ -1,5 +1,6 @@
 # About
-This repository contains my current solutions for the Udacity Data Structures & Algorithms Nano Degree (CVND) exercises and projects.
+This repository contains my current solutions for the Udacity Data Structures & Algorithms Nano 
+Degree exercises and projects.
 
 The original files can be found at [udacity](https://github.com/udacity).
 
