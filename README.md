@@ -4,6 +4,7 @@ This repository contains my current solutions for Udacity Nano Degree exercises 
 
 - [Computer Vision](cvnd)
 - [Data Structures & Algorithms](dand)
+- [Data Scientist](dsnd)
 
 The original files can be found at [udacity](https://github.com/udacity).
 
